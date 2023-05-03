@@ -1,0 +1,374 @@
+
+ABC NEWS,http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
+ANNnews7-South Africa,rtmp://46.4.25.213/live-ann7/ann7-mid.stream
+Euronews (EN),http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_en.m3u8
+Euronews (FR),http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/iphone_ar.m3u8
+NDTV News-India,http://ndtv.live-s.cdn.bitgravity.com/cdn-live-b7/_definst_/ndtv/live/ndtv247live.smil/playlist.m3u8NHK World-Japan,http://92.127.217.138:1234/udp/225.54.23.11:5000
+Sky News-Uk,http://ipsatpro.com:8000/live/martin1/martin1/550.ts
+WeatherNation,http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
+WGN-Chicago,http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_350_av-p.m3u8?
+US House,rtmp://granicus.mpl.miisolutions.net/granicus-livepull-us-4/clerkhouse/mp4:G0813_020
+US Senate,rtmp://207.7.154.110/senate/Senate01Enc
+NASA TV,http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
+Alaska-360north,rtmp://state.ak.tvwmedia.net/ktoo-live/360north
+Florida Channel,rtmp://webcasting.thefloridachannel.org/live/tvweb1
+UCSD-TV California,rtmp://ucsdtv-wowza.ucsd.edu:1935/live/live_800
+Cartoon Network,http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD28_W_250.sdp/playlist.m3u8
+HSN 1,http://hsn.mpl.miisolutions.net:1935/hsn-live01/_definst_/mp4:420p500kB31/mp4:420p500kB31.m3u8
+HSN 2,http://hsn.mpl.miisolutions.net:1935/hsn-live01/_definst_/mp4:468p500kB31/mp4:468p500kB3.m3u8
+
+Golf 720p,http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8?Vd?u#bt!25
+Sports Night,rtmp://freeview.fms.visionip.tv/live/sports_tonight-sports_tonight-live-25f-16x9-SD
+SPORTS-TV3,rtmp://stream.sportstv.com.tr/sportstv/SportsTV3
+Hit Tv Music,rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
+Vevo 2,http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
+Vevo 3,http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
+
+IRELAND--RTE One,http://ipsatpro.com:8000/live/martin1/martin1/474.ts
+IRELAND--RTE Two,http://ipsatpro.com:8000/live/martin1/martin1/478.ts
+UK--BBC 1,http://www.t12v.com:8000/live/souad/souad/1081.ts
+UK--BBC 2,http://www.t12v.com:8000/live/souad/souad/1080.ts
+UK--BBC 3,http://www.t12v.com:8000/live/souad/souad/1079.ts
+UK--BBC 4,http://www.t12v.com:8000/live/souad/souad/1078.ts
+UK--GOLD,http://www.t12v.com:8000/live/souad/souad/1712.ts
+UK--London Live,http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
+
+AUSTRIA--24 TV,rtmp://streaming.austria24.tv/live/stream_360p
+
+BELGIUM--Notele be,rtmp://streaming06.axeweb.be/live/direct.stream
+BELGIUM--TV Lux,rtmp://wowza.tvlux.imust.org/live/tvlux-live
+
+BULGARIA--BNT 1,http://92.62.242.128:5555/udp/239.100.102.21:8888
+BULGARIA--Kanal 3,http://92.62.242.128:5555/udp/239.100.102.92:8888
+
+FRANCE--Tv7 Bordeaux,rtmp://62.210.204.108/livtv7vo/mystream700.sdp
+FRANCE--IL Tv,rtmp://str81.creacast.com:80/iltv/high
+FRANCE--RMC fr,rtmp://fms.105.net:1935/live/rmc1
+FRANCE--D17,http://camerta.com:8000/live/boutique/boutique/70.ts
+FRANCE--D8,http://camerta.com:8000/live/boutique/boutique/71.ts
+FRANCE--FR2,http://camerta.com:8000/live/boutique/boutique/72.ts
+FRANCE--FR3,http://camerta.com:8000/live/boutique/boutique/73.ts
+FRANCE--FR4,http://camerta.com:8000/live/boutique/boutique/74.ts
+FRANCE--FR5,http://camerta.com:8000/live/boutique/boutique/76.ts
+FRANCE--FRANCE24-FRENCH,http://camerta.com:8000/live/boutique/boutique/77.ts
+FRANCE--FRO,http://camerta.com:8000/live/boutique/boutique/78.ts
+FRANCE--GULLI,http://camerta.com:8000/live/boutique/boutique/79.ts
+FRANCE--IDF1,http://camerta.com:8000/live/boutique/boutique/80.ts
+FRANCE--ITELE,http://camerta.com:8000/live/boutique/boutique/82.ts
+FRANCE--m6,http://camerta.com:8000/live/boutique/boutique/84.ts
+FRANCE--MCS,http://camerta.com:8000/live/boutique/boutique/85.ts
+FRANCE--NRJ12,http://camerta.com:8000/live/boutique/boutique/86.ts
+FRANCE--PLANETE,http://camerta.com:8000/live/boutique/boutique/87.ts
+FRANCE--TF1,http://camerta.com:8000/live/boutique/boutique/90.ts
+FRANCE--TMC,http://camerta.com:8000/live/boutique/boutique/91.ts
+FRANCE--W9,http://camerta.com:8000/live/boutique/boutique/92.ts
+FRANCE--TV5,http://camerta.com:8000/live/boutique/boutique/296.ts
+FRANCE--VOX Music HD,http://camerta.com:8000/live/boutique/boutique/758.ts
+
+GERMANY--Dresden Fernsehen,rtmp://video07.kanal8.de/dresdenfernsehenlive/myStream.sdp
+GERMANY--Filstalwelle,rtmp://62.113.210.27/filstalwelle-live/livestream
+GERMANY--Leipzig TV,rtmp://video61.kanal8.de/leipzigfernsehenlive/myStream.sdp
+GERMANY--Munchen TV,rtmp://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1
+GERMANY--N24 HD,http://77.250.14.41:8001/1:0:19:5274:41D:1:C00000:0:0:0:
+GERMANY--RTL HD,http://77.250.14.41:8001/1:0:19:EF10:421:1:C00000:0:0:0:
+GERMANY--Spiegel Geschichte HD,http://77.250.14.41:8001/1:0:19:89:8:85:C00000:0:0:0:
+GERMANY--Tele 5 HD,http://77.250.14.41:8001/1:0:19:1519:455:1:C00000:0:0:0:
+GERMANY--TV Baden Wuerttemberg,rtmp://62.113.210.105/ltv-live/livestream
+
+GREECE--ANT 1,http://antennatv-lh.akamaihd.net/i/live_1@329667/master.m3u8
+GREECE--ANT1 BUP 2,http://94.23.218.186:1935/galanos2/galanos2/playlist.m3u8
+GREECE--ASTRA TV,http://www.astratv.gr:8090/hls/livestream.m3u8
+GREECE--BOYLH TV,http://streamer-cache.grnet.gr/parliament/parltv.sdp/master.m3u8
+GREECE--CRETA WEB TV,rtmp://94.23.218.186:1935/cretatv/cretatv
+GREECE--E TV,http://mgrouphdlive4-f.akamaihd.net/i/live_1@324569/master.m3u8
+GREECE--EBS,http://ott.ec.streamcloud.be/live/disk1/EBS/hls_el/EBS-audio_AACL_ell_66400_207=66400-video=800000.m3u8
+GREECE--EBS PLUS,http://ott.ec.streamcloud.be/live/disk1/EBSplus/hls_el/EBSplus-audio_AACL_ell_66400_407=66400-video=800000.m3u8
+GREECE--ELLINIKOS FM WEB TV,http://o98d0njv.blue.onyxservers.com/hls-live/livepkgr/_definst_/liveevent/EllinikosFM.m3u8
+GREECE--ENA CHANNEL,http://wpc.68fc.edgecastcdn.net/hls-live/2068FC/ena-channel-live/video/video.m3u8
+GREECE--EPIRUS TV1,http://xepirustv1livex.api.channel.livestream.com/3.0/playlist.m3u8
+GREECE--EXTRA TV,rtmp://213.16.167.186:1935/live/mpegts_256.stream
+GREECE--4E,rtmp://82.192.84.30:1935/live/myStream.sdp
+GREECE--KONTRA TV,rtmp://flashcloud.mediacdn.com/live/kontratv
+GREECE--KRHTH TV,http://live.cretetv.gr:1935/cretetv/myStream/BratuMarian.m3u8
+GREECE--MAD CY,rtmp://144.76.2.213/live/livestream
+GREECE--MESSINIA WEB TV,rtmp://176.9.123.140:1935/messinia/messinia
+GREECE--NEA TV,http://srv.viiideo.gr:1935/neatv/live/playlist.m3u8
+GREECE--THRAKI NET,rtmp://hls.onestreaming.com:1935/live/thrakinettv
+GREECE--TILESPORT,http://tv1.streampulse.eu:1935/tilesport/movie1/live.m3u8
+GREECE--TVM,rtmp://cp77174.live.edgefcs.net:443/live/123456@19937 live=1 timeout=10
+GREECE--VOULI,http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
+GREECE--WZRA,http://iphone-streaming.ustream.tv/uhls/1989576/streams/live/iphone/playlist.m3u8
+GREECE--ZOUYKI TV,http://zouglahd-f.akamaihd.net/i/zougla_1@56341/master.m3u8
+
+HUNGARY--Duna TV,http://80.64.68.38:8000/udp/239.7.7.5:8000
+HUNGARY--Duna World,http://80.64.68.38:8000/udp/239.6.6.7:8000
+HUNGARY--Jasz Trio TV,rtmp://91.82.85.44:1935/liverelay/jasztriotv.sdp
+HUNGARY--Kistersegi TV_Balatonföldvar,rtmp://79.120.178.90:1935/btkt/tv
+HUNGARY--Light Channel TV 1,rtmp://streamer1.streamhost.org/salive/hungarian
+HUNGARY--M1,http://80.64.68.38:8000/udp/239.7.7.1:8000
+HUNGARY--M2,http://80.64.68.38:8000/udp/239.7.7.9:8000
+
+ITALY--La 7 HD,http://mainstream.dyndns.tv:8000/live/Stone15hurst/Stone15hurst/945.ts
+ITALY--Quartarete,rtmp://wowza1.top-ix.org/quartaretetv/quartareteweb
+ITALY--Radio Italia Tv,rtmp://cwedge.cdcache.net/cwedge/rilive
+ITALY--Radio Montecarlo TV,rtmp://fms.105.net:1935/live/rmc1
+ITALY--Rai 1 HD,http://mainstream.dyndns.tv:8000/live/Stone15hurst/Stone15hurst/460.ts
+ITALY--Rai 2 HD,http://mainstream.dyndns.tv:8000/live/Stone15hurst/Stone15hurst/459.ts
+ITALY--Rai 3 HD,http://mainstream.dyndns.tv:8000/live/Stone15hurst/Stone15hurst/57.ts
+ITALY--Rai 4,http://mainstream.dyndns.tv:8000/live/Stone15hurst/Stone15hurst/610.ts
+ITALY--Rai 5,http://mainstream.dyndns.tv:8000/live/Stone15hurst/Stone15hurst/611.ts
+ITALY--Rai Movie,http://mainstream.dyndns.tv:8000/live/Stone15hurst/Stone15hurst/941.ts
+ITALY--Rai Premium,http://mainstream.dyndns.tv:8000/live/Stone15hurst/Stone15hurst/940.ts
+ITALY--Rai Sport 1,http://mainstream.dyndns.tv:8000/live/Stone15hurst/Stone15hurst/937.ts
+ITALY--Rai Sport 2,http://mainstream.dyndns.tv:8000/live/Stone15hurst/Stone15hurst/938.ts
+ITALY--Rai Scuola,http://mainstream.dyndns.tv:8000/live/Stone15hurst/Stone15hurst/939.ts
+
+POLAND--Best Music HD,rtmp://stream.smcloud.net/live2/best/best_720p
+POLAND--CW24,rtmp://cdn4.stream360.pl:1935/CW24/transmisja_live
+POLAND--Edusat TV,rtsp://178.73.10.66:1935/live/mpegts.stream
+POLAND--Eska Party TV HD,rtmp://stream.smcloud.net/live2/eska_party/eska_party_720p
+POLAND--Eska Rocks-HD,rtmp://stream.smcloud.net/live2/eska_rock/eska_rock_720p
+POLAND--Eska TV,rtmp://stream.smcloud.net/live/eskatv
+POLAND--Polo TV,rtmp://stream.smcloud.net/live/polotv
+
+ROMANIA--TVM Ambra,http://tvm.ambra.ro
+
+RUSSIA--Barbariki TV,rtmp://planetaonline.cdnvideo.ru/rr/channel_6
+RUSSIA--Carousel,http://91.202.196.22:8000/play/c008
+RUSSIA--Channel 5,http://91.202.196.22:8000/play/c005
+RUSSIA--Chanson TV,http://91.202.196.24:8001/play/a009
+RUSSIA--C Music,http://91.202.196.22:8010/play/7uc4ss
+RUSSIA--Europa Plus TV,http://92.127.217.138:1234/udp/225.54.23.123:5000
+RUSSIA--Evrokino,http://91.202.196.22:8011/play/a004
+RUSSIA--History,http://91.202.196.24:8003/play/a00i
+RUSSIA--Hunting & Fishing,http://91.202.196.24:8001/play/a006
+RUSSIA--Living Planet,http://91.202.196.24:8003/play/a00h
+RUSSIA--Movies HD,http://91.202.196.22:8007/play/a005
+RUSSIA--Muz TV,http://91.202.196.22:8000/play/c2u61q
+RUSSIA--Nostalgia,http://91.202.196.24:8000/play/a009
+RUSSIA--Our TV,http://91.202.196.24:8005/play/a006
+RUSSIA--Plovdivska Pravoslavna TV,rtmp://31.13.218.108/live/mpegts.stream
+RUSSIA--RBC TV,http://91.202.196.24:8000/play/a008
+RUSSIA--Rusong TV,http://91.202.196.24:8000/play/a00c
+RUSSIA--Russian Bestseller,http://91.202.196.24:8003/play/a00g
+RUSSIA--Russian Novel,http://91.202.196.24:8003/play/a00e
+RUSSIA--Top Secret,http://91.202.196.24:8000/play/a00a
+RUSSIA--T24,http://91.202.196.24:8003/play/a00f
+RUSSIA--Vollna TV,rtmp://176.9.127.102/live/myStream_1
+RUSSIA--Yu TV,http://91.202.196.24:8005/play/a009
+RUSSIA--2×2,http://91.202.196.24:8003/play/a00b
+
+SLOVAKIA--Bardejov,rtmp://s1.media-planet.sk:80/live/bardejov1
+SLOVAKIA--Pezinok,rtmp://s1.media-planet.sk:80/live/pezinok
+
+SPAIN--Canal 10 Espana,rtmp://87.106.220.67/live/myStream_2
+SPAIN--Levante TV,rtmp://teledifusion.tv:1935/levantetvlive/levantetvlive
+SPAIN--TVE 1,http://www.t12v.com:8000/live/souad/souad/842.ts
+SPAIN--ANTENA 3hd,http://www.t12v.com:8000/live/souad/souad/502.ts
+SPAIN--TELECINCO,http://www.t12v.com:8000/live/souad/souad/508.ts
+
+SWEDEN--Kanal 10 Almhalt,rtmp://cdn-kanal10.crossnet.net/kanal10/mpegts.stream
+SWEDEN--Oppna Kanalen Stockholm,http://80.252.162.14/edge/_451iw2h_/451iw2h/playlist.m3u8
+SWEDEN--SVT 24/B,http://iptv.ndasat.com:88/live/21050/21050/910.ts
+SWEDEN--SVT1,http://iptv.ndasat.com:88/live/21050/21050/908.ts
+SWEDEN--SVT2,http://iptv.ndasat.com:88/live/21050/21050/909.ts
+
+TURKEY--Aksu TV (Kahramanmaras),rtmp://stream.taksimbilisim.com/aksutv/bant1
+TURKEY--ATV,http://iptv-supplier.com:8000/live/kaid/kaid/415.ts
+TURKEY--Balkan TV,rtmp://yayin.tvdunyasi.tv/live/balkanrtv
+TURKEY--Bengugturk TV,rtmp://yayin8.canliyayin.org/benguturk/benguturk
+TURKEY--Cartoon Network,http://iptv-supplier.com:8000/live/kaid/kaid/1010.ts
+TURKEY--Deha TV (Denizli),rtmp://stream2.taksimbilisim.com/deha/bant1
+TURKEY--DRT TV (Denizli),rtmp://stream2.taksimbilisim.com/drt/bant1
+TURKEY--Fanatik TV,http://iptv-supplier.com:8000/live/kaid/kaid/905.ts 
+TURKEY--Flash TV,http://iptv-supplier.com:8000/live/kaid/kaid/1054.ts
+TURKEY--Guney TV (Mersin),rtmp://stream.taksimbilisim.com/tarsusguneytv/bant1
+TURKEY--Guneydogu TV (Sanliurfa),rtmp://stream2.taksimbilisim.com/gtv/bant1
+TURKEY--Haber TV,http://iptv-supplier.com:8000/live/kaid/kaid/913.ts
+TURKEY--Hilal TV,rtmp://yayin8.canliyayin.org:1935/hilaltv/hilaltv
+TURKEY--Kanal Alanya,rtmp://canliyayin.kanalalanya.com:1935/live/liveStream
+TURKEY--Kanal D,http://iptv-supplier.com:8000/live/kaid/kaid/398.ts
+TURKEY--Kanal 7,http://iptv-supplier.com:8000/live/kaid/kaid/917.ts
+TURKEY--Kanal 19 (Corum),rtmp://yayin.tvdunyasi.tv/live/corum_kanal19
+TURKEY--Kanal 26 (Eskisehir),rtmp://stream.taksimbilisim.com/kanal26/bant1
+TURKEY--NTV Spor,http://iptv-supplier.com:8000/live/kaid/kaid/400.ts
+TURKEY--On 4 TV,rtmp://yayin.netradyom.com/live/on4
+TURKEY--Show_TV,http://iptv-supplier.com:8000/live/kaid/kaid/394.ts
+TURKEY--Star TV,http://iptv-supplier.com:8000/live/kaid/kaid/407.ts
+TURKEY--Sun TV (Mersin),rtmp://stream2.taksimbilisim.com:1935/mersinsuntv/bant1
+TURKEY--TRT 1,http://iptv-supplier.com:8000/live/kaid/kaid/408.ts
+TURKEY--TRT_Belgesel,http://iptv-supplier.com:8000/live/kaid/kaid/1755.ts
+TURKEY--TRT_Cocuk,http://iptv-supplier.com:8000/live/kaid/kaid/1886.ts
+TURKEY--TRT_Diyanet,http://iptv-supplier.com:8000/live/kaid/kaid/1888.ts
+TURKEY--TRT_Haber,http://iptv-supplier.com:8000/live/kaid/kaid/983.ts
+TURKEY--TRT_Okul,http://iptv-supplier.com:8000/live/kaid/kaid/1889.ts
+TURKEY--TRT_Spor,http://iptv-supplier.com:8000/live/kaid/kaid/412.ts
+TURKEY--TRT Turk,http://iptv-supplier.com:8000/live/kaid/kaid/413.ts
+TURKEY--TRT_Muzik,http://iptv-supplier.com:8000/live/kaid/kaid/1887.ts
+TURKEY--TV2,http://iptv-supplier.com:8000/live/kaid/kaid/1835.ts
+TURKEY--TV8_HD,http://iptv-supplier.com:8000/live/kaid/kaid/397.ts                                          
+TURKEY--TV 41,rtmp://stream.taksimbilisim.com/tv41/bant1
+TURKEY--TV 52,rtmp://stream.taksimbilisim.com/tv52/bant1
+TURKEY--TV 2000,rtmp://stream.taksimbilisim.com/tv2000/bant1
+TURKEY--TV Kayseri,rtmp://yayin3.canliyayin.org/tvkayseri/tvkayseri
+TURKEY--World Travel Channel,rtmp://stream.taksimbilisim.com/wtc/bant1
+TURKEY--ZTV,rtmp://stream.taksimbilisim.com/ztv/bant1                                                                                                                                                           
+TURKEY--24 TV,http://iptv-supplier.com:8000/live/kaid/kaid/406.ts
+
+YUGO-SERBIA--Alfa,rtsp://fms.zulu.mk:554/zulu/alfa_2f
+
+SAUDI ARABIA--Wissal-tv,http://109.123.123.82:1935/wesal/wesal1/chunklist_w2021646403.m3u8
+SYRIA--CNA,rtmp://str81.creacast.com:80/cna/live.sdp
+SYRIA--Sama Syria,rtmp://sama-tv.net/live/samatv
+SYRIA--Syria Aloula,http://82.137.248.21:1935/Aloula/AloulaLive3/playlist.m3u8
+SYRIA--Syria Drama,http://82.137.248.21:1935/Drama/DramaLive3/playlist.m3u8
+SYRIA--Syrian Educational TV,rtmp://82.137.248.16/Snews/SnewsLive1
+SYRIA--Syria TV,http://82.137.248.16:1935/Sat/SatLive3/playlist.m3u8
+SYRIA--Talaqie,rtmp://82.137.248.20/Talaqie/TalaqieLive2
+
+UAE--Al Kass,rtmp://AgendaStreamerx1.qna.org.qa/kas//kas
+UAE--Dubai One (E),http://dmi.mangomolo.com:1935/dubaione/smil:dubaione.smil/gmswf.m3u8
+UAE--Dubai TV,http://dmi.mangomolo.com:1935/dubaitv/smil:dubaitv.smil/gmswf.m3u8
+UAE--Dubai Sports,http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/playlist.m3u8
+UAE--Sharjah,rtmp://livestreaming.itworkscdn.net/smc1live/smc1tv
+UAE--Sharjah Karbalah,rtmp://livestreaming.itworkscdn.net/kablatvlive/kabtv_360p
+
+KENYA--Citizen TV,http://bzdv.net.flash.glb.ipercast.net/bzdv.net-live/smil:76.smil/playlist.m3u8
+TANZANIA--Channel Ten,http://bzdv.net.flash.glb.ipercast.net/bzdv.net-live/smil:53.smil/playlist.m3u8
+TANZANIA--East Africa TV,http://bzdv.net.flash.glb.ipercast.net/bzdv.net-live/smil:55.smil/playlist.m3u8
+TANZANIA--TBC,http://bzdv.net.flash.glb.ipercast.net/bzdv.net-live/smil:58.smil/playlist.m3u8
+ZIMBABWE--ZBC,http://bzdv.net.flash.glb.ipercast.net/bzdv.net-live/smil:82.smil/playlist.m3u8
+
+CHINESE--Air Classroom,http://ktv039.cdnak.ds.kylintv.net/nlds/kylin/clcchannel/as/live/clcchannel_4.m3u8
+CHINESE--Anhui International,http://ktv009.cdnak.ds.kylintv.net/nlds/kylin/ahtv/as/live/ahtv_4.m3u8
+CHINESE--Beijing TV,http://ktv026.cdnllnwnl.ds.kylintv.net/nlds/kylin/btv/as/live/btv_4.m3u8
+CHINESE--China Film,http://ktv044.cdnak.ds.kylintv.net/nlds/kylin/chinamovie/as/live/chinamovie_4.m3u8
+CHINESE--Chinese television 8,http://ktv008.cdnak.ds.kylintv.net/nlds/kylin/hyds2/as/live/hyds2_4.m3u8
+CHINESE--Chinese television 26,http://ktv026.cdnak.ds.kylintv.net/nlds/kylin/cathaytv/as/live/cathaytv_4.m3u8
+CHINESE--China Tibetan TV,http://ktv033.cdnak.ds.kylintv.net/nlds/kylin/hztv/as/live/hztv_4.m3u8
+CHINESE--Chongqing International,http://ktv027.cdnak.ds.kylintv.net/nlds/kylin/cqtvi/as/live/cqtvi_4.m3u8
+CHINESE--Eastern Sure,http://ktv051.cdnak.ds.kylintv.net/nlds/kylin/etyoyo/as/live/etyoyo_4.m3u8
+CHINESE--Eastern TV,http://ktv032.cdnak.ds.kylintv.net/nlds/kylin/etgbl/as/live/etgbl_4.m3u8
+CHINESE--First Financial,http://ktv009.cdnak.ds.kylintv.net/nlds/kylin/cbn/as/live/cbn_4.m3u8
+CHINESE--FTV MASTV,http://ktv044.cdnak.ds.kylintv.net/nlds/kylin/mastv/as/live/mastv_4.m3u8
+CHINESE--Good News 2,http://ktv017.cdnak.ds.kylintv.net/nlds/kylin/gdtv2/as/live/gdtv2_4.m3u8
+CHINESE--Henan International,http://ktv015.cdnak.ds.kylintv.net/nlds/kylin/henantv/as/live/henantv_4.m3u8
+CHINESE--Hong Kong TV,rtmp://live.hkstv.hk.lxdns.com/live/hks
+CHINESE--Hunan International,http://ktv045.cdnak.ds.kylintv.net/nlds/kylin/huntv/as/live/huntv_4.m3u8
+CHINESE--ICN International TV,http://ktv032.cdnak.ds.kylintv.net/nlds/kylin/iavc/as/live/iavc_4.m3u8
+CHINESE--Kirin Arts,http://ktv033.cdnak.ds.kylintv.net/nlds/kylin/varietyhd/as/live/varietyhd_4.m3u8
+CHINESE--Kirin Children,http://ktv041.cdnak.ds.kylintv.net/nlds/kylin/kids/as/live/kids_4.m3u8
+CHINESE--Kirin Fashion,http://ktv029.cdnak.ds.kylintv.net/nlds/kylin/leisure/as/live/leisure_4.m3u8
+CHINESE--Kirin Live,http://ktv015.cdnak.ds.kylintv.net/nlds/kylin/kylinlive/as/live/kylinlive_4.m3u8
+CHINESE--Kunlun Theater,http://ktv009.cdnak.ds.kylintv.net/nlds/kylin/kunlunhd/as/live/kunlunhd_4.m3u8
+CHINESE--Love,http://ktv033.cdnak.ds.kylintv.net/nlds/kylin/daai/as/live/daai_4.m3u8
+CHINESE--Phoenix Americas,http://ktv029.cdnak.ds.kylintv.net/nlds/kylin/pxna/as/live/pxna_4.m3u8
+CHINESE--Phoenix Hong Kong,http://ktv039.cdnak.ds.kylintv.net/nlds/kylin/pxhkus/as/live/pxhkus_4.m3u8
+CHINESE--Phoenix IT,http://ktv005.cdnak.ds.kylintv.net/nlds/kylin/pxinhd/as/live/pxinhd_4.m3u8
+CHINESE--Room TV,http://ktv027.cdnak.ds.kylintv.net/nlds/kylin/bltv/as/live/bltv_4.m3u8
+CHINESE--Shandong International,http://ktv045.cdnak.ds.kylintv.net/nlds/kylin/sdtvi/as/live/sdtvi_4.m3u8
+CHINESE--Shandong TV,http://ktv017.cdnak.ds.kylintv.net/nlds/kylin/sdtvhd/as/live/sdtvhd_4.m3u8
+CHINESE--Sichuan International,http://ktv039.cdnak.ds.kylintv.net/nlds/kylin/sctv/as/live/sctv_4.m3u8
+CHINESE--Sino TV US,http://ktv008.cdnak.ds.kylintv.net/nlds/kylin/snvn/as/live/snvn_4.m3u8
+CHINESE--Southern TV,http://ktv051.cdnak.ds.kylintv.net/nlds/kylin/tvs/as/live/tvs_4.m3u8
+CHINESE--Taichung News,http://27.100.64.99:1935/liveedge/smil:live_1_1_iphone.smil/playlist.m3u8
+CHINESE--Television Champion,http://27.100.64.99:1935/liveedge/live_2_0_0.stream/playlist.m3u8
+CHINESE--Tianjin International,http://ktv045.cdnak.ds.kylintv.net/nlds/kylin/tjtv/as/live/tjtv_4.m3u8
+CHINESE--Tianjin TV,http://ktv041.cdnak.ds.kylintv.net/nlds/kylin/tjtvhd/as/live/tjtvhd_4.m3u8
+CHINESE--Travel Channel,http://ktv040.cdnak.ds.kylintv.net/nlds/kylin/traveltv/as/live/traveltv_4.m3u8
+CHINESE--TTV America,http://ktv042.cdnak.ds.kylintv.net/nlds/kylin/ttv/as/live/ttv_4.m3u8
+CHINESE--Xiamen TV,http://ktv010.cdnak.ds.kylintv.net/nlds/kylin/xmtv/as/live/xmtv_4.m3u8
+CHINESE--Yangtze River Theatre,http://ktv042.cdnak.ds.kylintv.net/nlds/kylin/yangtse/as/live/yangtse_4.m3u8
+CHINESE--Zhejiang TV,http://ktv017.cdnak.ds.kylintv.net/nlds/kylin/zhejtvhd/as/live/zhejtvhd_4.m3u8
+
+INDIA--DD News,http://164.100.49.24:8080/hls-live/livepkgr/_definst_/ddnewslive.m3u8
+INDIA--India TV,http://indiatvnews-lh.akamaihd.net/i/ITV_1@199237//master.m3u8
+INDIA--News Nation,http://54.255.176.172:1935/live/smil:mystream.smil/playlist.m3u8
+INDONESIA--Kompas TV,rtmp://202.137.11.52/jakarta/offair.sdp
+THAILAND--Thai TV,http://rtmp.thaitv.co.th/live/thaitv.m3u8
+
+ARGENTINA--Canal 9 Parana,http://ionlive1-lh.akamaihd.net/i/canal9_1@125365/master.m3u8
+ARGENTINA--Canal 9 Salta,http://xcanal9saltax.api.channel.livestream.com/3.0/playlist.m3u8?
+ARGENTINA--Canal 26,rtsp://live-edge01.telecentro.net.ar:80/live/26hd-360
+ARGENTINA--C5N Noticias,rtmp://c5n.stweb.tv:1935/c5n/live_media
+ARGENTINA--5CTV – San M de Tucuman – TU Tucuman,rtmp://5.9.59.236/golive/59_179_live
+ARGENTINA--Mar del Plata TV 41 – BA Buenos Aires,http://ionlive1-lh.akamaihd.net/i/canal10_1@125367/master.m3u8
+ARGENTINA--Magazine Argentina,rtsp://stream.mgzn.tv/live/mgzntv/mgzntv
+ARGENTINA--Telemetro,http://live.telemetro.com/telemetro/tm.smil/playlist.m3u8?
+ARGENTINA--TN Argentina,rtsp://stream.tn.com.ar/live/tnhd1
+ARGENTINA--29 TV – Ensenada – BA Buenos Aires,rtmp://panel.dattalive.com/8008/8008
+
+BRAZIL--TV Pocos,rtmp://rtmp.cdn.upx.net.br/00084/myStream.sdp
+BRAZIL--TV Urbana Brasil,rtmp://srv6.zoeweb.tv/z433-live/stream
+
+CHILE--Antofagasta TV,http://wow2.cl.digitalproserver.com/atv/atvvivo/atv.smil/hasbahca.m3u8
+CHILE--Arica TV,http://wow2.cl.digitalproserver.com/aricatv/aricatvvivo/aricatv.smil/chunklist_w725671068_b848000.m3u8
+CHILE--Campus TV Talca,http://wow2.cl.digitalproserver.com/campustv/campustvvivo/campustv.smil/chunklist_w662421777_b848000.m3u8
+CHILE--C9 Bio TV Concepcion,http://wow2.cl.digitalproserver.com/c9//c9.smil/chunklist_w500751237_b1200000.m3u8
+CHILE--La Red Chile,http://wow1.lax.digitalproserver.com/redtv/redtvvivo/redtv.smil/chunklist.m3u8?
+CHILE--Marraqueta TV Santiago,http://stream1.eltelon.com/live/marraqueta-tv/marraqueta-tv673/playlist.m3u8
+CHILE--TV Chile,http://edge-11-mvstr.edge.mdstrm.com/tvn-live/smil:285a5c6dade574d5f111419c85c6cf17/playlist.m3u8?
+CHILE--TVN Chile,http://edge-51-cl.edge.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8?
+CHILE--TVU Concepcion,rtsp://movilstream.digitalproserver.com/tvu/tvuvivo/livestream2
+
+COSTA RICA--Canal 33 Xpert TV,rtmp://k3.usastreams.com:1935/tv33/tv33
+COSTA RICA--Canal 42 Extra,rtmp://k3.usastreams.com:1935/canal42/canal42
+COSTA RICA--Colosal TV,http://k3.usastreams.com:1935/colosaltv1/colosaltv1/playlist.m3u8
+COSTA RICA--SMO TV Costa Rica,rtmp://199.217.118.90:1935/smotv/stream
+COSTA RICA--Tele Uno TV Costa Rica,rtmp://k3.usastreams.com:1935/tvuno1/tvuno1
+
+DOMINICAN REP--Antena Latina Canal 7,http://ss6.domint.net:1962/al_edge/antena/playlist.m3u8
+DOMINICAN REP--Tele Canal 16,rtsp://mek2.mekstream.com:1935/noticias16/live3
+DOMINICAN REP--Telefuturo Canal 23,http://ss7.domint.net:1950/tf_str/futu/hasbahca.m3u8
+DOMINICAN REP--TeleUniverso 29,http://ss7.domint.net:1942/tu_str/universo/playlist.m3u8
+DOMINICAN REP--CDN Canal 37,http://108.168.206.90:1935/cdn/cdn/playlist.m3u8
+DOMINICAN REP--Teleradio America 45,http://ss7.domint.net:2068/t45_str/trlive/playlist.m3u8
+DOMINICAN REP--AME Canal 47,rtmp://tv.domiplay.net:1935/rtplive/ame47.sdp
+DOMINICAN REP--TNI Canal 51 Santiago,http://ss7.domint.net:2078/tni_str/canal51/playlist.m3u8
+
+ECUADOR--Amarillo TV,http://181.198.10.23:1935/live/_definst_/mp4:mystream_360p/playlist.m3u8?
+ECUADOR--Television Nacional de Ecuador,http://xtvncanalecx.api.channel.livestream.com/3.0/playlist.m3u8#megaIPTVArgentina
+
+GUATEMALA--GuateVision,http://bravo967.sysvirtuales.com/live/stream1.sdp/playlist.m3u8?
+
+HONDURAS--Azteca Honduras,http://aztecalive-lh.akamaihd.net/i/142kvpq0l_1@67741/master.m3u8?
+HONDURAS--HCH Honduras,http://4.31.30.140:1935/live/hchtvdigital/playlist.m3u8?wowzasessionid=1792561590
+HONDURAS--Sulavision,http://162.212.176.83:8080/sulavision.m3u8?
+HONDURAS--TV12 Honduras,http://72.46.226.61/live01/canal81/playlist.m3u8
+
+MEXICO--AGS Aguascalientes TV,http://xaguascalientesx.api.channel.livestream.com/3.0/playlist.m3u8?
+MEXICO--Aprende,http://dl-dgtve.xsn.com.mx/dgtve/canal24dgtve.mp4/playlist.m3u8?
+MEXICO--Azteca Info7,http://38.104.228.230:1938/info7/info7_512/playlist.m3u8?
+MEXICO--Canal 2 Los Mochis,http://74.63.97.188:1935/gpacifico2/videogpacifico2/chunklist_w609004457.m3u8?
+MEXICO--Canal 2 Ciudad Obregon,http://74.63.97.188:1935/gpacifico3/videogpacifico3/chunklist_w1501260201.m3u8?
+MEXICO--Canal 7 Mazatlan,http://74.63.97.188:1935/gpacifico4/videogpacifico4/chunklist_w1774114891.m3u8?
+MEXICO--Canal del Congreso,http://dl.canaldelcongreso.gob.mx:1935/ccongreso/mp4:congreso2b.mp4/playlist.m3u8?
+MEXICO--Capital 21 Mexico City,http://187.237.253.94:8134/hls-live/livepkgr/_definst_/liveevent.m3u8?
+MEXICO--TDT Tlaxcala,http://coracyt.mega00.com:1935/live/coracyt/coracyt/playlist.m3u8?
+MEXICO--Telebachillerato,http://dl-dgtve.xsn.com.mx/dgtve/canal17dgtve.mp4/playlist.m3u8?
+MEXICO--Telemar Campeche,http://wms.tecnoxia.com:1935/8004/8004/telemarmexico.m3u8?
+MEXICO--Telemax Hermosillo,http://enhd.co:1935/ilive/ilive/playlist.m3u8?
+MEXICO--Tele Mexico,http://dl-dgtve.xsn.com.mx/dgtve/canal21dgtve.mp4/playlist.m3u8?
+MEXICO--Telesecundaria,http://dl-dgtve.xsn.com.mx/dgtve/canal11dgtve.mp4/playlist.m3u8?
+MEXICO--Telesecundaria+,http://dl-dgtve.xsn.com.mx/dgtve/canal27dgtve.mp4/playlist.m3u8?
+MEXICO--TVDocencia,http://dl-dgtve.xsn.com.mx/dgtve/canal12dgtve.mp4/playlist.m3u8?
+MEXICO--TV Mas Mexico,rtmp://50.7.98.234/rtv/videortv
+MEXICO--TV Polanco,rtmp://186.155.200.118:1935/live/ColombiasuMusica
+MEXICO--TVUniversidad,http://dl-dgtve.xsn.com.mx/dgtve/canal22dgtve.mp4/playlist.m3u8?
+
+NETH ANTILLES--NOS TV Bonaire,rtmp://panchito13.flashmediacast.com:2087/live/livestream
+
+NICARAGUA--Canal 4 Nicaragua,http://72.46.226.61/live01/canal41/playlist.m3u8
+
+PANAMA--CB24 Noticias,http://ipointcablertmp.tulix.tv:1935/cb24stream/myStream.sdp/playlist.m3u8
+PANAMA--RPC-4 Panama,http://live.rpctv.com/rpctv/tm.smil/playlist.m3u8
+PANAMA--SER-11 Panamá,rtmp://216.224.177.132/live/sertv
+
+PERU--Arica TV,http://wow2.cl.digitalproserver.com/aricatv/aricatvvivo/aricatv.smil/chunklist_w725671068_b848000.m3u8
+PERU--Canal 5 Linares,rtmp://v1.streaminglatinoamerica.com/canal5/canal5
+PERU--RBC Peru,http://184.154.28.210:1935/rbcsatelital/rbcsatelital/playlist.m3u8
+PERU--Canal 12 Valledupar,http://panelhdstream.com:1935/8022/8022/playlist.m3u8
+
+USA--EWTN Spanish,http://ewtn.mpl.miisolutions.net:1935/ewtn-live-5/900.mp4/playlinst.m3u8?
+
+VENEZUELA--Canal 11 Zulia/Venezuela,rtmp://edge.wms28.lorini.net/canalonce/canalonce
