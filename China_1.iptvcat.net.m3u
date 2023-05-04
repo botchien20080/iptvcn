@@ -1,0 +1,201 @@
+#EXTM3U
+#EXTINF:0 tvg-country="CN;VN" tvg-logo="http://tduc.tk/logo/antv.png" group-title="Undefined",ANTV HD,越南ANTVHD
+http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",Blue 美剧 (360p) [Not 24/7]
+http://210.210.155.35/dr9445/h/h16/02.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",CCTV-10科教 (1080p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225636/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",CCTV-10科教 (1080p)
+http://39.135.138.59:18890/PLTV/88888910/224/3221225627/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",CCTV-11戏曲 (1080p)
+http://39.135.138.59:18890/PLTV/88888910/224/3221225628/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",CCTV-12社会与法制 (1080p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225637/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",CCTV-12社会与法制 (1080p)
+http://39.135.138.59:18890/PLTV/88888910/224/3221225629/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",CCTV-13新闻 (720p)
+http://39.135.138.59:18890/PLTV/88888910/224/3221225638/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",CCTV-17农业农村 (1080p)
+http://39.135.138.59:18890/PLTV/88888910/224/3221225907/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",CCTV-1综合 (1080p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225642/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",CCTV-2财经 (1080p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225619/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",CCTV-2财经 (1080p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225643/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",CCTV-3综艺 (1080p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225647/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",CCTV-3综艺 (1080p)
+http://39.135.138.59:18890/PLTV/88888910/224/3221225647/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",CCTV-4中文国际 (1080p)
+http://39.135.138.59:18890/PLTV/88888910/224/3221225621/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",CCTV-5+体育赛事 (1080p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",CCTV-5+体育赛事 (1080p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225706/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",CCTV-5+体育赛事 (1080p)
+http://39.135.138.59:18890/PLTV/88888910/224/3221225649/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",CCTV-5体育 (1080p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225633/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",CCTV-5体育 (1080p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225648/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",CCTV-6电影 (1080p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225632/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",CCTV-6电影 (1080p)
+http://39.135.138.59:18890/PLTV/88888910/224/3221225650/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",CCTV-7国防军事 (1080p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225624/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",CCTV-7国防军事 (1080p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225644/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",CCTV-7国防军事 (1080p)
+http://39.135.138.59:18890/PLTV/88888910/224/3221225624/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",CCTV-8电视剧 (1080p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225631/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",CCTV-8电视剧 (1080p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225635/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",CCTV-8电视剧 (1080p)
+http://39.135.138.59:18890/PLTV/88888910/224/3221225635/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",CCTV-9纪录 (1080p)
+http://39.135.138.59:18890/PLTV/88888910/224/3221225626/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CN" tvg-logo="https://i.imgur.com/c5Yj2to.png" group-title="News",CGTN
+http://live.cgtn.com/1000/prog_index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CN" tvg-logo="https://i.imgur.com/c5Yj2to.png" group-title="News",CGTN
+http://live.cgtn.com/500/prog_index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/800px-CGTN.svg.png" group-title="News;Undefined",CGTN
+https://news.cgtn.com/resource/live/english/cgtn-news.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CN" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/509_300.png" group-title="Undefined",CGTN 1,CGTN Español
+https://livees.cgtn.com/1000e/prog_index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CN" tvg-logo="https://i.imgur.com/NR3DhDu.png" group-title="Undefined",CGTN Arabic
+http://livear.cgtn.com/1000a/prog_index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CN" tvg-logo="https://ui.cgtn.com/static/resource/images/icon_new/live/live_AR.png" group-title="Undefined",CGTN Arabic
+https://news.cgtn.com/resource/live/arabic/cgtn-a.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CN" tvg-logo="https://i.imgur.com/TSG6WBy.png" group-title="Documentary",CGTN Documentary
+https://livedoc.cgtn.com/1000d/prog_index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CN" tvg-logo="https://i.imgur.com/TSG6WBy.png" group-title="Documentary",CGTN Documentary
+https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",CGTN Documentary (576p)
+http://39.135.138.59:18890/PLTV/88888910/224/3221225645/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CN" tvg-logo="https://i.imgur.com/e8HG0D7.png" group-title="Undefined",CGTN Español
+http://livees.cgtn.com/500e/prog_index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CN" tvg-logo="https://i.imgur.com/g2qz3Fh.png" group-title="Undefined",CGTN Français
+https://news.cgtn.com/resource/live/french/cgtn-f.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",CGTN Русский (576p)
+http://liveru.cgtn.com/1000r/prog_index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",NewTV超级电影 (1080p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225623/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",上海纪实 (1080p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225655/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="Undefined",上虞1新闻综合
+http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="Undefined",上虞3新商都
+http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",东方卫视 (1080p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225658/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",东方卫视 (1080p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225659/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="Undefined",余姚新闻综合
+http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",内蒙古卫视 (576p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225667/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",北京卫视 (1080p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225674/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",北京紀實 (1080p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225676/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="Undefined",北碚综合频道
+http://222.178.181.121:12034/beibei01.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="Undefined",南京十八
+http://live.nbs.cn/channels/njtv/sbpd/m3u8:500k/live.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="Undefined",南京新闻综合
+http://live.nbs.cn/channels/njtv/xwzh/m3u8:500k/live.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="Undefined",南京生活
+http://live.nbs.cn/channels/njtv/shpd/m3u8:500k/live.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",吉州新聞綜合 (1080p)
+http://218.204.153.158/10.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",吉林7 (900p) [Not 24/7]
+http://stream1.jlntv.cn/fzpd/sd/live.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="Undefined",吉林乡村,吉林山村
+http://stream1.jlntv.cn/xcpd/sd/live.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="Undefined",吉林公共新闻
+http://stream1.jlntv.cn/ggpd/sd/live.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",吉林卫视 (576p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225680/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="Undefined",吉林生活
+http://stream1.jlntv.cn/shpd/sd/live.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="Undefined",吉林都市
+http://stream1.jlntv.cn/dspd/sd/live.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",四川卫视 (576p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225733/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",天津卫视 (1080p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225739/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",天津卫视 (1080p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225698/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",孟州电视台 (1080p) [Not 24/7]
+http://live.dxhmt.cn:9081/tv/10883-1.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",宁夏卫视 (576p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225726/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",安徽卫视 (1080p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225737/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",山东卫视 (1080p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225697/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",山东卫视 (1080p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225738/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="Undefined",嵊州综合
+http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",广东 Ⅰ 韶关公共台 (720p) [Not 24/7]
+https://www.sgmsw.cn/videos/tv/201805/1308/9P424TC5M000AFO13CXK6GN6BOA889D2/hls/live.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",广东 Ⅰ 韶关综合台 (720p) [Not 24/7]
+https://www.sgmsw.cn/videos/tv/201805/1308/SB05RIYZOU8JR418AUQOF62CAJQ08D0E/hls/live.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",广东卫视 (1080p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225742/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",建安电视台 (1080p) [Not 24/7]
+http://live.dxhmt.cn:9081/tv/11003-1.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",张家界2台 (240p) [Not 24/7]
+http://stream.zjjrtv.com/zjjtv2/hd/live.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",忍者神龟 (480p)
+http://www.alibabapictures.com/movies/shenggui/poyingerchu.mp4?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="Undefined",新泰乡村党建
+http://live.xtgdw.cn:1935/live/xtxc/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",新泰影視頻道 (480p) [Not 24/7]
+http://live.xtgdw.cn:1935/live/xtys/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="Undefined",新泰生活频道
+http://live.xtgdw.cn:1935/live/xtsh/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="Undefined",新泰综合频道
+http://live.xtgdw.cn:1935/live/xtzh/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",新疆卫视 (576p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225725/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="Undefined",武进新闻频道
+http://live.wjyanghu.com/live/CH1.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="Undefined",江津文化旅游
+http://222.179.155.21:1935/ch2.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="Undefined",江津新闻综合
+http://222.179.155.21:1935/ch1.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="Undefined",江津经济生活
+http://222.179.155.21:1935/ch0.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",江苏卫视 (1080p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225702/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",江苏卫视 (1080p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225743/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",江西卫视 (1080p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225746/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",河北卫视 (576p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225732/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",浙江卫视 (1080p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225703/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",浙江卫视 (1080p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225744/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",浙江国际 (1080p) [Not 24/7]
+http://hw-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",浙江少儿 (1080p) [Not 24/7]
+http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",浙江钱江 (1080p) [Not 24/7]
+http://hw-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",海南卫视 (576p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225722/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",深圳卫视 (1080p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225700/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",深圳卫视 (1080p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225741/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",深圳卫视 (1080p)
+http://39.135.138.59:18890/PLTV/88888910/224/3221225741/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",湖北卫视 (1080p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225699/index.m3u8?checkedby:iptvcat.net
